@@ -1,0 +1,21 @@
+body {
+    font-family: Arial,  sans-serif; /* La famiglia del font */
+    font-size: 11px; /* La dimensione del font principale nei tag <p></p> */
+    background-color: #ffffff; /* Il colore dello sfondo della pagina web */
+    color: #5988FF; /* Il colore del testo */ 
+}
+h1 {
+    color: #5988FF; /* Il colore dell'intestazione */
+    border: 5px solid #5988FF;
+    font-size: 50px; /* La dimensione del font dell'intestazione */
+    font-family: 'Inter', serif; /* La famiglia del font usata nell'intestazione */
+}
+h6 {
+    color: #5988FF; /* Il colore dell'intestazione */
+    font-size: 1px; /* La dimensione del font dell'intestazione */
+    font-family: 'Inter', serif; /* La famiglia del font usata nell'intestazione */
+}
+ul {
+    color:#FD98FB;
+    border: 5px solid #5988FF;
+}
